@@ -1,5 +1,4 @@
-## Olá! meu nome é Bruna Noemi
-
+## Olá, meu nome é Bruna Noemi
 
 <div>
   <a href="https://github.com/BrunaNoemi">
@@ -23,6 +22,8 @@
 
 <div> 
   
+   <h3>Redes de Contato que uso:</h3>
+
   <a href = "mailto:Brunanoemi94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-noemi-000160208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
