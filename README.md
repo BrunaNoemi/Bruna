@@ -1,4 +1,4 @@
-## Olá, meu nome é Bruna Noemi
+## Oi,tudo bem? meu nome é Bruna Noemi,sou Desenvolvedora Front-End
 
 <div>
   <a href="https://github.com/BrunaNoemi">
@@ -17,17 +17,13 @@
   <img align="center" alt="bruna-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="bruna-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div> 
-  
-   ##
 
 <div> 
-  
    <h3>Redes de Contato:</h3>
 
   <a href = "mailto:Brunanoemi94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-noemi-000160208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- <!-- ![Snake animation](https://github.com/RAYZ-brand/RAYZ-brand/blob/output/github-contribution-grid-snake.svg)
--->
+  <!--[Snake animation](https://github.com/BrunaNoemi/BrunaNoemi/blob/output/github-contribution-grid-snake.svg)-->
 </div>
 
