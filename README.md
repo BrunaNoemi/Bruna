@@ -1,9 +1,9 @@
-## Oi,tudo bem? meu nome é Bruna Noemi,sou Desenvolvedora Front-End
+## Oi,tudo bem? meu nome é Bruna Noemi, sou Desenvolvedora Front-End
 
 <div>
   <a href="https://github.com/BrunaNoemi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaNoemi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaNoemi&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaNoemi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <h2>Tecnologias que uso:</h2>
