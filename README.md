@@ -1,4 +1,4 @@
-## Oi,tudo bem? meu nome é Bruna Noemi, sou Desenvolvedora Front-End
+## Oi,tudo bem? meu nome é Bruna, sou Desenvolvedora Front-End
 
 <div>
   <a href="https://github.com/BrunaNoemi">
